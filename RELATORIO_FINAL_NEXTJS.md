@@ -4,10 +4,6 @@
 
 Refatoração completa do marketplace de papelaria para utilizar **Next.js** com **rotas dinâmicas** e integração com **Supabase** para gerenciamento de dados e imagens, mantendo o design e funcionalidades existentes.
 
-## 🌐 SITE ONLINE
-
-**URL Principal:** https://3000-ipr12hlj020dkq9qgj04m-07a53a4d.manusvm.computer
-
 ## ✅ FUNCIONALIDADES IMPLEMENTADAS
 
 ### 🏠 **Página Inicial**
@@ -191,10 +187,3 @@ O marketplace foi **completamente refatorado** com sucesso, mantendo todas as fu
 - **Código maintível** e tipado
 
 O projeto está **pronto para produção** e **preparado para crescimento** futuro!
-
----
-
-**Data:** 25/08/2025  
-**Status:** ✅ CONCLUÍDO COM SUCESSO  
-**URL:** https://3000-ipr12hlj020dkq9qgj04m-07a53a4d.manusvm.computer
-
